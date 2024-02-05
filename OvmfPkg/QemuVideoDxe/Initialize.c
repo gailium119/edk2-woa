@@ -209,12 +209,6 @@ QemuVideoCirrusModeSetup (
 /// Table of supported video modes
 ///
 QEMU_VIDEO_BOCHS_MODES  QemuVideoBochsModes[] = {
-  {  640,  480, 32 },
-  {  800,  480, 32 },
-  {  800,  600, 32 },
-  {  832,  624, 32 },
-  {  960,  640, 32 },
-  { 1024,  600, 32 },
   { 1024,  768, 32 },
   { 1152,  864, 32 },
   { 1152,  870, 32 },
